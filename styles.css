@@ -1,0 +1,59 @@
+html, body{
+	padding: 0;
+	margin: 0;
+	font-size:10px;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #70a1ff;
+	font-family: "Roboto", sans-serif;
+}
+
+
+.note{
+  background-color: #ffffff;
+  position:absolute;
+  top:50%;
+  transform: translateY(-50%);
+  left:10%;
+  right:10%;
+  border:none;
+  border-radius: 3px;
+  height:270px;
+  box-shadow: 1px 2px 8px;
+
+  display: flex;
+  
+  justify-content: space-around;
+  text-align:center;
+  font-size:1.5rem;
+  height:auto;
+}
+
+.note img{
+  box-sizing: border-box;
+  margin-top: 25px;
+  height:60px;
+}
+.note h3{
+	color:#1e90ff;
+}
+.note p{
+	color: #a4b0be;
+}
+.note h4{
+	color:#1e90ff;
+}
+
+
+.mobile{
+	width:23%;
+}
+.desktop{
+	width:23%;
+
+}
+.tv{
+	width:23%;
+}
