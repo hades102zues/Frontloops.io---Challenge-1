@@ -1,2 +1,2 @@
 # Frontloops.io---Challenge-1
-Challenge #1 of FrontLoops.io's markup challenge
+Loop1-Step1 of FrontLoops.io's markup challenge
